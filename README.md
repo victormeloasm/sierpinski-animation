@@ -78,8 +78,7 @@ To create a README.md file on GitHub, follow these steps:
    3. Run the script by clicking the "Run" button or typing `sierpinski_triangle` in the MATLAB command window.
 
    4. The script will generate an animation and save it as `sierpinski_animation.mp4` in the same directory.
-   ```
-
+  
 5. Customize the content as needed, including the introduction, prerequisites, getting started instructions, and any other relevant information.
 
 6. Once you're satisfied with the content, click the "Commit new file" button at the bottom of the page.
