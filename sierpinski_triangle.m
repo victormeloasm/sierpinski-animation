@@ -2,7 +2,7 @@ function sierpinski_triangle_animation_to_mp4()
 
     % Useful Parameters
     L = 10; % Side length
-    it = 20; % Number of iterations
+    it = 7; % Number of iterations
     video_fps = 60; % Desired FPS for the video
     frame_pause = 1/video_fps;
 
